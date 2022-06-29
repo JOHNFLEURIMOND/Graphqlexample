@@ -2,7 +2,6 @@ import styled from 'styled-components';
 import { Container } from '../Layout/global-style';
 import { Link } from 'react-router-dom';
 
-
 import { fleurimondColors } from '../../components/utils/theme.js';
 
 export const Footer = styled.footer`

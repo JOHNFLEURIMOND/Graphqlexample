@@ -9,3 +9,4 @@ app.use(cors());
 app.get('/', (req, res) => res.redirect('/graphql'));
 app.use('/graphql', jsonGraphqlExpress.default(data));
 app.listen(PORT, () => console.log(`Listening on port ${PORT}!`));
+    

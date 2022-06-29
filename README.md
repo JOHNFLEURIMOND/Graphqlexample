@@ -1,25 +1,17 @@
-# :checkered_flag:What It Looks Like :checkered_flag:: 
-
 # How It's Made :nut_and_bolt:🔨 :hammer::wrench::
- This application built with React.js, Express, Node, Webpack, & Babel.
+ This application built with Apollo, GraphQL, Express, Material UI, Node, React.js, & Webpack.
 
-## Optimizations.
-This is just a basic template layout to start my fullstack apps
-
-
- # How It's Works:white_check_mark::
-
+# How It's Works:white_check_mark::
+  
 
 ## My Awesome Project && Lessons Learned :mortar_board::
-
-
-
 
 # Portfolio :open_file_folder::
 
 ** :computer:   WEBSITE:** [John Fleurimond](http://johnfleurimond.com)
 
 # How To Get It Started :arrow_forward: :
+using node v16.15.1 (npm v8.13.1)
 
 ## Installation
 
